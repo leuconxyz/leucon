@@ -14,7 +14,7 @@
 
 ### • I'm a Software Developer! 🧑🏻‍💻
 >
-> 🧑🏻‍🎓 • Currently in college taking a degree in Information Systems Management!
+> 🧑🏻‍🎓 • Currently in college while working with Deloitte, taking a CTeSP and a degree!
 > 
 > 🌱 • At the moment I'm focused in learning C# and Unity, along with other things.
 > 
