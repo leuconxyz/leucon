@@ -30,5 +30,20 @@
 > 
 > #### 🥉 I have worked with : <img align="center" alt="Java" width="30px" src="https://github.com/leuconxyz/leucon/blob/main/Icons/java.png?raw=true" /> <img align="center" alt="Angular" width="30px" src="https://github.com/leuconxyz/leucon/blob/main/Icons/angular.png?raw=true" /> <img align="center" alt="Node JS" width="30px" src="https://github.com/leuconxyz/leucon/blob/main/Icons/nodejs.png?raw=true" /> <img align="center" alt="Docker" width="30px" src="https://github.com/leuconxyz/leucon/blob/main/Icons/docker.png?raw=true" /> <img align="center" alt="Python" width="30px" src="https://github.com/leuconxyz/leucon/blob/main/Icons/python.png?raw=true" />
 
+### • Github Stats 📊
+> #### 🔎 Overall personal stats:
+> 
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leuconxyz&show_icons=true&theme=radical)
+> 
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leuconxyz&theme=radical)](https://git.io/streak-stats)
+> 
+> #### 🔎 Highlighted Repos:
+> 
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leuconxyz&repo=The-Boring-Bot&show_owner=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+> 
+> #### 🔎 Most used languages:
+> 
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leuconxyz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
