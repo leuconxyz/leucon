@@ -10,7 +10,7 @@
 > 
 > 🎖️ • Main hobbies: Gym, Going out w/friends, Coding, Learning and Gaming;
 > 
-> ❤️ • Founded a group called ***The Boring Club***, focused on connecting people and sharing projects;
+> ❤️ • Founded a group called ***The Boring Club***, focused on connecting people and sharing projects; <img align="center" alt="Java" width="30px" src="https://raw.githubusercontent.com/leuconxyz/leuconxyz/main/Icons/tbc.png?raw=true" />
 
 ### • I'm a Software Developer! 🧑🏻‍💻
 >
