@@ -1,5 +1,9 @@
 ## • Hey there, my name is Leonardo! 🤍
 > I'm also known as ***"USERNAME"*** or ***itsUSERN4ME***
+>
+> ```javascript
+> console.log("\"USERNAME\"");
+> ```
 > 
 > ![](https://komarev.com/ghpvc/?username=leuconxyz&color=ff69b4)
 
