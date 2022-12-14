@@ -1,5 +1,4 @@
 ## • Hey there, my name is Leonardo! 🤍
-> I'm also known as ***"USERNAME"*** or ***itsUSERN4ME***
 >
 > ```javascript
 > console.log("I'm also known as \"USERNAME\" or itsUSERN4ME");
