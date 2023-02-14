@@ -47,3 +47,7 @@
 > #### 🔎 Most used languages:
 > 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leuconxyz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+>
+> #### 🎶 My horrible music taste:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1qq6pj1pf2uroohktf5miubwq&cover_image=true&theme=default&show_offline=false&background_color=2e0038&bar_color=8a088c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+>
