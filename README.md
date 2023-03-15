@@ -50,6 +50,6 @@
 >
 
 ## • More things about me 🍨
-> #### 🎶 My horrible music taste:
+> #### 🎶 My "horrible" music taste:
 > <kbd> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1qq6pj1pf2uroohktf5miubwq&cover_image=true&theme=default&show_offline=false&background_color=141321&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) </kbd>
 >
